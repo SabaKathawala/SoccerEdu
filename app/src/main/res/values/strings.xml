@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SoccerEdu</string>
+    <string name="title_activity_expert">Expert Level</string>
+    <string name="large_text">
+        "The Cruyff Turn (also spelled Cruijff Turn in the Netherlands) is an evasive football move named after Dutch player Johan Cruyff."
+        "Cruyff first executed the move during the 1974 World Cup group stage match between Holland and Sweden. 23 minutes into the match, "
+        "while Cruyff was facing his own goal and pursued tightly by Swedish defender Jan Olsson, Cruyff feigned a pass before dragging the "
+        "ball behind his standing leg, turning 180 degrees, and accelerating away. The move had been used previously by Adrian Alston and was "
+        "soon widely copied by other players around the world, and remains one of the most commonly used dribbling tricks in the modern game."
+
+
+    </string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/logo"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/us_soccer_logo"
+        android:title="Refresh"/>
+    <item android:id="@+id/formation"
+        android:title="False 9 formation" />
+    <item android:id="@+id/turn"
+        android:title="Cryuff-turn" />
+    <item android:id="@+id/tiki-taka"
+        android:title="Tiki-Taka" />
+    <item android:id="@+id/shield"
+        android:title="Shield" />
+    <item android:id="@+id/contain"
+        android:title="Contain" />
+</menu>
